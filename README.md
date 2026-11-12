@@ -86,6 +86,17 @@ A personal finance manager designed to help users track income, expenses, unpaid
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=RayesNajib&theme=tokyonight&hide_border=true" />
 </p>
 
+## GitHub Overview
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=RayesNajib&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RayesNajib&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RayesNajib&theme=tokyonight&hide_border=true" width="95%">
+</p>
+
 ## Connect With Me
 
 <p align="center">
